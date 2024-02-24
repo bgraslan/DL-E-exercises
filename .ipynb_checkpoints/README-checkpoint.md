@@ -1,9 +1,7 @@
-# Titanic-Comp
-Titanic - Machine Learning from Disaster Competition on Kaggle
+# Logistic Regression model.
 
-At this prject main goal is predict survival status of passangers according to features. So we can say that this project is a classification problem.
-I tried Random Forest Classifier, KNeighbors Classifier and C-Support Vector Classification.
+In this project i designed a logistic regression model. I tested model that i designed with Titanic dataset.
 
-Trained C-Support Vector Classification model has best result on test.csv by 0.78708 accuracy score. Placed %11 at 15345.
+After process of feature exploration i noticed that some features more important and some features becames more imported with combination with other features. So i adjusted some features according to importance.
 
-...
+Accuracy score is 0.78229.
