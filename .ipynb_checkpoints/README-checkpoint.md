@@ -1,7 +1,3 @@
-# Logistic Regression model.
-
-In this project i designed a logistic regression model. I tested model that i designed with Titanic dataset.
-
-After process of feature exploration i noticed that some features more important and some features becames more imported with combination with other features. So i adjusted some features according to importance.
-
-Accuracy score is 0.78229.
+# Deep-learning and Neural Network exercises
+I've been testing my neural network exercises on Kaggle competitions. 
+I've been improving myself with small exercises to build a custom ML library.
