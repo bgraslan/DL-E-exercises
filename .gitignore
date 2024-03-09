@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 env/*
 Data/*
 datasets/*
 Source/*
 __pycache__/*
 .ipynb_checkpoints/*
+=======
+env/*
+>>>>>>> 4e2b47b4794e363313f0bc4e1c22dbb6aa2194ce
